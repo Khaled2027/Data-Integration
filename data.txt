@@ -1,4 +1,11 @@
-**Important: Please note that I was unable to upload the datasets that I have used ude to the fact that they are too large to upload, neverthless, I have attachted a link below where you can find the dataset.**
+Important Note:
+Please note that I was unable to upload the datasets used in this project because the files are too large. However, I have attached a link below where you can find the complete dataset.
 
-Dataset link: https://drive.google.com/drive/folders/1iBKZog_PI4TLsDHhbhiHAoIzBv_D-1NC?usp=share_link
+Dataset link: 
+https://drive.google.com/drive/folders/1iBKZog_PI4TLsDHhbhiHAoIzBv_D-1NC?usp=share_link
+
+Instructions for downloading:
+1. Open the dataset link above.
+2. Look for the folder named 'data' and click on it.
+3. Click the download button to save it to your device.
 
